@@ -2,6 +2,10 @@ hello lincoln 1999
 hello lincoln 3333
 hello lincoln hod-fix
 hello lincoln
+<<<<<<< HEAD
 hello lincoln masterfix
+=======
+hello lincoln hot-fix
+>>>>>>> 96db0ce (hotfix)
 hello lincoln
 hello lincoln
